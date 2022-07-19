@@ -11,7 +11,7 @@ body{
     padding: 0;
     text-align: center;
     color: white;
-    background: url('fundo2.jpg') center center no-repeat fixed  ;
+    background: url('fundoq.jpg') center center no-repeat fixed  ;
     background-position: 30% 45%;
     background-color: black;
     -webkit-background-size: cover;
@@ -19,7 +19,7 @@ body{
     background-size: cover;
     -o-background-size: cover;
 	
-	background-image: url('fundo2.jpg');
+	background-image: url('fundoq.jpg');
 		
 	background-color: #dbddf1;
 }
@@ -186,6 +186,8 @@ img{
     font-size: 47px;
     color: #FC6D6D;
     margin-top: 58px;
+    font-weight:600;
+    
 }
 
 
@@ -309,6 +311,23 @@ img{
       margin-bottom: 20px;
     }
     }
+
+i{
+    color: #ffffff;
+
+}
+
+/*
+a:visited .social{
+    color: #fff
+
+}
+
+a:hover {
+    color: #ffcfcf;
+    transition: .2s;
+}
+*/
 
     a .link_ig {
         color: #FC6D6D;
